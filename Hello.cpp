@@ -5,6 +5,6 @@ void main() {
 }
 
 void hello() {
-cout<<("Hello Vader");
-
+cout<<"Hello Vader";
+cout<<" C";
 }
